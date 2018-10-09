@@ -1,5 +1,6 @@
 module.exports.login = undefined;
 var spam = [];
+var peery = [];
 var spam_count = {};
 var discord = require('discord.js')
 var client = new discord.Client();
